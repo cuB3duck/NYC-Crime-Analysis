@@ -18,4 +18,4 @@ Libraries used:
 - seaborn: create more complex visualizations like heatmaps
 - datetime: convert datetime values to extract day of the week for example
 - **Before running the code, install the required libraries by running the line below.**
--- pip install matplotlib seaborn pandas numpy
+  - pip install matplotlib seaborn pandas numpy
