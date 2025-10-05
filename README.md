@@ -12,7 +12,7 @@ Data analysis is used to find patterns across boroughs and commonalities with vi
 - Explore when crime occurs the most often.
 
 ### Tools
-libraries used:
+Libraries used:
 - pandas: to create a dataframe, clean the dataframe, and use aggregate functions like count
 - pyplot: create simple visualizations
 - seaborn: create more complex visualizations like heatmaps
